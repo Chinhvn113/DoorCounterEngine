@@ -1,0 +1,10 @@
+{
+  "model_path": "/home/hllxrd/chinhcachep/best_lowres_ncnn_model",
+  "auto_start_source": "http://192.168.28.78:8080/14d87061586c7ce87be314ac1bf7db6e/hls/gqbb9Lhhcu/0fceca1c4aa34bd3a87853f47f841cc9/s.m3u8",
+  "resolution": [1280, 720],
+  "default_settings": {
+    "conf_threshold": 0.35,
+    "k_frames": 2,
+    "inside_definition": "Region 2 is 'Inside'"
+  }
+}
